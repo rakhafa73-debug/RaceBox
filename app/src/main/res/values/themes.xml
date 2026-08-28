@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Theme.RaceBox" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/race_primary</item>
+        <item name="colorOnPrimary">@color/race_on_primary</item>
+        <item name="colorSecondary">@color/race_accent</item>
+        <item name="colorOnSecondary">@color/race_on_accent</item>
+        <item name="android:colorBackground">@color/race_bg</item>
+        <item name="colorSurface">@color/race_surface</item>
+        <item name="colorOnSurface">@color/race_text_primary</item>
+        <item name="colorOnSurfaceVariant">@color/race_text_secondary</item>
+        <item name="colorOutline">@color/race_outline</item>
+        <item name="colorOutlineVariant">@color/race_outline</item>
+        <item name="android:statusBarColor">@color/race_bg</item>
+        <item name="android:navigationBarColor">@color/race_bg</item>
+        <item name="android:textColor">@color/race_text_primary</item>
+    </style>
+</resources>

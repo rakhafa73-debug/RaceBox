@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="race_bg">#0E1116</color>
+    <color name="race_surface">#161B22</color>
+    <color name="race_primary">#E63946</color>
+    <color name="race_on_primary">#FFFFFF</color>
+    <color name="race_accent">#22D3A5</color>
+    <color name="race_on_accent">#0E1116</color>
+    <color name="race_text_primary">#F0F3F6</color>
+    <color name="race_text_secondary">#8B949E</color>
+    <color name="race_outline">#30363D</color>
+    <color name="race_danger">#FF6B6B</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+</resources>

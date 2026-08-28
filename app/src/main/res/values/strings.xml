@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RaceBox</string>
+    <string name="tagline">Pengukur Kecepatan &amp; Jarak Motor</string>
+    <string name="backend_base_url">http://10.0.2.2:3000/</string>
+
+    <string name="username_label">Nama pengguna</string>
+    <string name="password_label">Kata sandi</string>
+    <string name="login_button">Masuk / Daftar</string>
+    <string name="login_error">Nama pengguna atau kata sandi salah</string>
+    <string name="logout_button">Keluar</string>
+
+    <string name="dashboard_welcome">Selamat datang, %1$s</string>
+    <string name="status_idle">Status: Tidak ada race aktif</string>
+    <string name="status_recording">Status: Race sedang berlangsung</string>
+    <string name="gps_warning">GPS tidak aktif. Aktifkan GPS untuk fitur tracking.</string>
+    <string name="start_race_button">Mulai Race</string>
+    <string name="history_button">Riwayat Race</string>
+    <string name="sync_now_button">Sinkronkan Sekarang</string>
+
+    <string name="speed_label">Kecepatan</string>
+    <string name="distance_label">Jarak</string>
+    <string name="time_label">Waktu</string>
+    <string name="max_speed_label">Maksimum</string>
+    <string name="avg_speed_label">Rata-rata</string>
+    <string name="avg_speed_kmh_format">Ø %1$s km/j</string>
+    <string name="kmh_unit">km/j</string>
+    <string name="km_label">km</string>
+    <string name="km_unit">%1$s km</string>
+
+    <string name="lap_label">Lap</string>
+    <string name="lap_short">Lap %1$d</string>
+    <string name="lap_not_active">Tidak ada lap aktif</string>
+    <string name="lap_active">Lap %1$d aktif</string>
+    <string name="begin_lap_button">Mulai Lap</string>
+    <string name="end_lap_button">Selesai Lap</string>
+    <string name="stop_race_button">Berhenti Race</string>
+    <string name="stop_race_question">Hentikan Race?</string>
+    <string name="stop_race_message">Semua data akan tersimpan secara lokal.</string>
+
+    <string name="summary_title">Ringkasan Race</string>
+    <string name="speed_chart_label">Grafik Kecepatan</string>
+    <string name="track_map_label">Heat Map Jalur</string>
+    <string name="laps_header">Lap</string>
+    <string name="laps_count_format">Total lap: %1$d</string>
+    <string name="export_csv_button">Export CSV</string>
+    <string name="export_json_button">Export JSON</string>
+    <string name="share_button">Share Laporan</string>
+    <string name="no_chart_data">Tidak ada data</string>
+    <string name="not_synced">Belum disinkronkan</string>
+    <string name="synced">Tersinkron</string>
+    <string name="syncing">Menyinkronkan…</string>
+    <string name="sync_success">Data berhasil disinkronkan</string>
+    <string name="sync_success_format">Data berhasil disinkronkan (%1$d race)</string>
+    <string name="nothing_to_sync">Tidak ada data untuk disinkronkan</string>
+
+    <string name="history_title">Riwayat Race</string>
+    <string name="empty_history">Belum ada race. Mulai race dari dashboard.</string>
+    <string name="yes">Ya</string>
+    <string name="cancel">Batal</string>
+
+    <string name="notification_channel_name">Progress Race</string>
+    <string name="notification_tracking_text">Merekam race aktif…</string>
+    <string name="notification_race_saved_title">RaceBox</string>
+    <string name="notification_race_saved_text">Data race tersimpan secara lokal</string>
+    <string name="notification_sync_title">Sinkronisasi</string>
+    <string name="notification_sync_text">Data berhasil disinkronkan ke server</string>
+
+    <string name="action_open_app">Buka RaceBox</string>
+</resources>
